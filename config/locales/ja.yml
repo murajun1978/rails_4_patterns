@@ -1,0 +1,11 @@
+ja:
+  posts:
+    index:
+      page_title: '投稿一覧'
+      title:      'タイトル'
+      body:       '投稿内容'
+    new:
+      page_title: '新規投稿'
+    edit:
+      page_title: '投稿編集'
+      

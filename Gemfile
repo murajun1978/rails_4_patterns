@@ -38,3 +38,9 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'haml-rails'
+
+group :development do
+  gem 'erb2haml'
+  gem 'html2haml'
+end
